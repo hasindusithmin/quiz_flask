@@ -1,0 +1,6 @@
+fastapi
+sqlmodel
+typing
+Faker
+uvicorn
+ninja2
